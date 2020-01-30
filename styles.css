@@ -1,0 +1,33 @@
+body {
+  margin: auto;
+}
+
+header {
+  background-color: Lightblue;
+  overflow: auto;
+}
+
+
+nav {
+display: flex;
+justify-content: flex-end;
+background-color: Lightblue;
+flex-direction: column;
+width: 15%;
+float: left;
+}
+
+a {
+  color: black;
+  padding:
+   background: #f99;
+}
+
+a:hover {
+  background-color: white;
+}
+
+main {
+  width: 85%;
+  float:right;
+}
